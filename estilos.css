@@ -1,0 +1,12 @@
+body{background-color: rgb(41,182,246); }
+
+
+img{
+	width: 150px;
+	height: 250px;
+	margin: auto;
+	display: block;
+}
+h1{
+	text-align: center;
+}
